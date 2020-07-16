@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(CROSDX.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CROSDX.cpp
+d:\project\directx12\crosdx\crosdx\crosdx.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+  CROSDX.vcxproj -> D:\Project\DirectX12\CROSDX\Debug\CROSDX 001 开窗.exe
